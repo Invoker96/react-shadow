@@ -1,0 +1,26 @@
+.pm-table-wrapper{ 
+    width:95%;  
+    margin: 2rem;
+    border-bottom: 3px solid #0059b3;
+    border-collapse:collapse;    
+}
+.pm-table-heading{    
+    text-align:center;    
+    width: 90%;
+}
+.pm-table-content > td{
+    border:2px solid #0059b3;
+    border:0 2px 0 2px;
+    border-bottom: 2px solid #fff;
+    background-color: #EDF6FF;
+}
+.pm-table-heading > th{  
+    width: 15%;  
+    background-color: #E6F2FF;
+    border:2px solid #0059b3;
+}    
+.pm-table-heading > td{  
+    width: 15%;  
+    background-color: #E6F2FF;
+    border:2px solid #0059b3;
+}

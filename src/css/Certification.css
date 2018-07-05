@@ -1,0 +1,42 @@
+
+
+/* .pm-text-field,.pm-shadow-text-field{
+    @include font-style($weight:700);
+} */
+
+.pm-template-wrapper{
+    margin:1rem;
+}
+.pm-button{
+    border:none;
+    float :right ;
+    margin-left: 0.5rem ;
+}
+.pm-plus-icon,.pm-minus-icon{
+    float:right;
+}
+.pm-light-blue{
+background-color:#e6f2ff; 
+margin-bottom:0.25rem;
+padding:0.5rem;
+}
+.shadow-span{
+    width:10%;
+}
+.pm-rev-shadow{
+margin-left: 0.56rem;
+}
+.pm-lighter-blue{
+    background-color:#EDF6FF;
+    padding:0.5rem;
+}
+select{
+    width:6.5rem;
+}
+span{
+
+    width:15rem;
+}
+.pm-display-none{
+    display:none;
+}
